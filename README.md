@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center" style="font-size: 22px"> IM AI WITH THE BRAIDS </h1>
 
-<!--
-**dpeachpeach/dpeachpeach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```math
+\ce{
+ $\unicode
+   [goombafont;
+    color:red;
+    pointer-events: none;
+    z-index: 5;
+    position: fixed;
+    left: 50dvi;
+    top: 50dvb;
+    width: 80dvmin;
+    background-position: 0 0;
+    height: 80dvmin;
+    translate: -50% -50%;
+    opacity: 1;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 300px;
+    background-image: url('https://github.com/dpeachpeach/dpeachpeach/blob/main/aiwiththebraids.gif?raw=true');]
+   {x0000}$
+}
+```
