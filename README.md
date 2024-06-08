@@ -14,7 +14,7 @@
     width: 80dvmin;
     background-position: 0 0;
     height: 80dvmin;
-    translate: -50% -50%;
+    translate: -100% -100%;
     opacity: 1;
     background-repeat: no-repeat;
     background-size: 100% 100%;
