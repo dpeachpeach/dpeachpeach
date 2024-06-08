@@ -12,10 +12,10 @@ Credit for finding the CSS injection bug: https://github.com/cloud11665/cloud116
     position: fixed;
     top: 0;
     left: 0;
-    height: 50vh;
+    height: 100vh;
     object-fit: cover;
     background-size: cover;
-    width: 60vw;
+    width: 130vw;
     opacity: 0.5;
     background: url('https://github.com/dpeachpeach/dpeachpeach/blob/main/aiwiththebraids.gif?raw=true');]
    {x0000}$
@@ -37,7 +37,7 @@ Credit for finding the CSS injection bug: https://github.com/cloud11665/cloud116
     height: 80dvmin;
     opacity: 1;
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: 50% 50%;
     height: 250px;
     background-image: url('https://github.com/dpeachpeach/dpeachpeach/blob/main/welcometomycutepage.gif?raw=true');]
    {x0000}$
@@ -60,8 +60,8 @@ Credit for finding the CSS injection bug: https://github.com/cloud11665/cloud116
     height: 80dvmin;
     opacity: 1;
     background-repeat: no-repeat;
-    background-size: 100% 100%;
-    height: 50px;
+    background-size: 50% 50%;
+    height: 250px;
     background-image: url('https://github.com/dpeachpeach/dpeachpeach/blob/main/under_construction.gif?raw=true');]
    {x0000}$
 }
